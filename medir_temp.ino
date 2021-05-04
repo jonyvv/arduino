@@ -1,5 +1,6 @@
 void setup()
 {
+  //jhfdfjhbgkljn,ñljn.,mlñlkp
   Serial.begin(9600);
 
   pinMode(A1, INPUT);
